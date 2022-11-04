@@ -168,9 +168,7 @@ function App() {
 
       <footer>
         &copy; Copyright 2022
-        <a className="ms-2" href="#">
-          ToDo React App
-        </a>
+        <span className='text-primary ms-2'>React ToDo APP</span>
       </footer>
     </div>
   );
